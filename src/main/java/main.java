@@ -10,7 +10,6 @@ public class main {
         Scanner sc = new Scanner(System.in);
 
         iniciarFilasAsientos(mapa);
-       // mostrarFilasAsientos(mapa);
 
         System.out.println("******************* Iniciar Sistema de Reservas *******************");
 
